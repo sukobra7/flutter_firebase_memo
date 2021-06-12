@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001105975875",
+    "project_id": "memo-firebase-576bb",
+    "storage_bucket": "memo-firebase-576bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001105975875:android:7f18f858b83d0cf351c2f6",
+        "android_client_info": {
+          "package_name": "net.nakamura.firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001105975875-7893rk731oc7q2t6ku77pusqosrcmpqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyFRoT6HpCl94o5Qy8MVp4DVMh9vRtK-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001105975875-7893rk731oc7q2t6ku77pusqosrcmpqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
